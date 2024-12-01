@@ -1,4 +1,7 @@
 import bpy
+
+#This simple code is mine, and it has already been pushed to github repo as my archive:https://github.com/Blackonlearn/CloudRigPost/
+
 from rigify.feature_sets import CloudRig
 post_generation_utils = CloudRig.rigs.sprite_fright.post_generation_utils
 rig = bpy.context.object
